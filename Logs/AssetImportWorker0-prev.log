@@ -1,0 +1,152 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 22000.434; Version 2009; 64bit' Language: 'en' Physical Memory: 8059 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/bsp/clg/unity/TurnBasedStrategyGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+5250
+Successfully changed project path to: D:/bsp/clg/unity/TurnBasedStrategyGame
+D:/bsp/clg/unity/TurnBasedStrategyGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/bsp/clg/unity/TurnBasedStrategyGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   30.0.14.9649
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56972
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003250 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.170 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004210 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.705 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1542 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.5 MB.
+System memory in use after: 143.6 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1982.
+Total: 3.723900 ms (FindLiveObjects: 0.303900 ms CreateObjectMapping: 0.125900 ms MarkObjects: 3.165200 ms  DeleteObjects: 0.127100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/units/Unit.prefab
+  artifactKey: Guid(16df8dfbf63bd564a89906ec04171fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/units/Unit.prefab using Guid(16df8dfbf63bd564a89906ec04171fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab6b25e598552d89ecefc19d83cf2fdd') in 0.673416 seconds
+  Import took 0.678136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000588 seconds.
+  path: Assets/Prefabs/units/toonSkeleSoldierGigaMungus.prefab
+  artifactKey: Guid(e2588e9aa0e54bb4b8c02f8a9e83e0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/units/toonSkeleSoldierGigaMungus.prefab using Guid(e2588e9aa0e54bb4b8c02f8a9e83e0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796272b832f6a260590d961d9e17c0d5') in 0.069933 seconds
+  Import took 0.141133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000646 seconds.
+  path: Assets/Prefabs/units/unitToEdit.prefab
+  artifactKey: Guid(45aedf8b99d0d8c46ac85b931d960b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/units/unitToEdit.prefab using Guid(45aedf8b99d0d8c46ac85b931d960b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fc26bffb0531c5d7a1867fe55cc51ce') in 0.121126 seconds
+  Import took 0.174072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000665 seconds.
+  path: Assets/Prefabs/units/toonSkeleArcherBald.prefab
+  artifactKey: Guid(c2ed526b5fd4fa54689a090c14f45c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/units/toonSkeleArcherBald.prefab using Guid(c2ed526b5fd4fa54689a090c14f45c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '900d275a078fa1c211ab7e2e7b27b711') in 0.117995 seconds
+  Import took 0.231824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000692 seconds.
+  path: Assets/Prefabs/damageparticle.prefab
+  artifactKey: Guid(66dc3b0b00d9ec2449372775c9528d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/damageparticle.prefab using Guid(66dc3b0b00d9ec2449372775c9528d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ad774a49cd8ad72347102026f40700') in 0.035240 seconds
+  Import took 0.081453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000749 seconds.
+  path: Assets/Prefabs/units/toonSkeleArcher.prefab
+  artifactKey: Guid(5506f14b6e761904492bab2be1dd80fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/units/toonSkeleArcher.prefab using Guid(5506f14b6e761904492bab2be1dd80fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0bacdf5211d3fc834c69ebf833e9239') in 0.142466 seconds
+  Import took 0.191108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Prefabs/units/toonSkeleSoldier.prefab
+  artifactKey: Guid(b0bdf9ffe1174844994823ea6aea5a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/units/toonSkeleSoldier.prefab using Guid(b0bdf9ffe1174844994823ea6aea5a8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efdc8d74d0c76f76fec18fde1f36c25b') in 0.055918 seconds
+  Import took 0.072278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Prefabs/units
+  artifactKey: Guid(ba2958257976bc1459c2e05da8533384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/units using Guid(ba2958257976bc1459c2e05da8533384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe2a306c6d739fc460067a43ef2e15ee') in 0.011141 seconds
+  Import took 0.127722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(9b5980f207594404e82e390be924aa83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(9b5980f207594404e82e390be924aa83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f081896f55b83e70592a8ec5ea4baa30') in 0.014310 seconds
+  Import took 0.018509 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.6 MB.
+System memory in use after: 117.7 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1990.
+Total: 4.850800 ms (FindLiveObjects: 0.386400 ms CreateObjectMapping: 0.078400 ms MarkObjects: 4.364900 ms  DeleteObjects: 0.020000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
